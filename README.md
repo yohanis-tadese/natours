@@ -1,4 +1,4 @@
-An awesome tour booking site built on top of NodeJS.
+An awesome tour booking site built on top of NodeJS From Udemy Help and support by Instructor Jonas Schimeditman..
 
 ![72606801-7ebe0680-3949-11ea-8e88-613f022a64e5](https://github.com/user-attachments/assets/191bf255-3c57-4f3e-9487-2181e24002ee)
 ![72606859-a0b78900-3949-11ea-8f0d-ef44c789957b](https://github.com/user-attachments/assets/2ddc602f-e9aa-43a0-949c-c44624c93943)
